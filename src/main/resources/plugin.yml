@@ -1,0 +1,7 @@
+name: ItemCommand
+version: ${project.version}
+main: de.keksgauner.itemcommand.Main
+api-version: 1.15
+authors: [keksgauner]
+description: added an item with which one executes a command
+website: </>

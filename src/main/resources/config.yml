@@ -1,0 +1,30 @@
+text1: "it should be added when joining 0 - 8"
+onJoin:
+  enabled: true
+  slot: 0
+
+text2: "you should be able to change the item position"
+fixed: true
+
+text3: "should go drop"
+throwable: false
+
+text4: "Should the player be able to use the item"
+use: false
+
+text5: "schould the plugin filter by name and type / Without only type"
+name_and_type: true
+
+text6: "item name & type"
+item:
+  name: '&eTeleporter'
+  type: GOLDEN_APPLE
+  amount: 1
+
+text7: "only versions with subids"
+old:
+  enabled: false
+  id: 0
+
+text8: "Command without /"
+command: "warps"
