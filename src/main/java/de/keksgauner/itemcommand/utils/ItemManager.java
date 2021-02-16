@@ -5,6 +5,10 @@ import org.bukkit.inventory.ItemFlag;
 import org.bukkit.inventory.ItemStack;
 import org.bukkit.inventory.meta.ItemMeta;
 
+/**
+ * @author KeksGauner
+ * by ByAple Opensorce
+ */
 public class ItemManager {
 
     public static ItemStack createItemWithMaterialWithSubid(Material material, int anzahl, int subid, String displayname) {

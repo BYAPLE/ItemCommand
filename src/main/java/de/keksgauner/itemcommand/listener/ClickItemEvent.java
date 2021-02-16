@@ -8,6 +8,10 @@ import org.bukkit.event.Listener;
 import org.bukkit.event.block.Action;
 import org.bukkit.event.player.PlayerInteractEvent;
 
+/**
+ * @author KeksGauner
+ * by ByAple Opensorce
+ */
 public class ClickItemEvent implements Listener {
 
     @EventHandler

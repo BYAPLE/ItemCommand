@@ -7,6 +7,10 @@ import org.bukkit.event.EventHandler;
 import org.bukkit.event.Listener;
 import org.bukkit.event.player.PlayerDropItemEvent;
 
+/**
+ * @author KeksGauner
+ * by ByAple Opensorce
+ */
 public class DropItemEvent implements Listener {
 
     @EventHandler

@@ -5,6 +5,10 @@ import de.keksgauner.itemcommand.utils.Data;
 import org.bukkit.Bukkit;
 import org.bukkit.plugin.java.JavaPlugin;
 
+/**
+ * @author KeksGauner
+ * by ByAple Opensorce
+ */
 public final class Main extends JavaPlugin {
 
     private static Main instance;

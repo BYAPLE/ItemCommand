@@ -10,6 +10,10 @@ import org.bukkit.event.EventHandler;
 import org.bukkit.event.Listener;
 import org.bukkit.event.player.PlayerJoinEvent;
 
+/**
+ * @author KeksGauner
+ * by ByAple Opensorce
+ */
 public class JoinEvent implements Listener {
 
     @EventHandler

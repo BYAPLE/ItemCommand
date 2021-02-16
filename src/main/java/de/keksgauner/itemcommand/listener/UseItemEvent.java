@@ -7,6 +7,10 @@ import org.bukkit.event.EventHandler;
 import org.bukkit.event.Listener;
 import org.bukkit.event.player.PlayerInteractEvent;
 
+/**
+ * @author KeksGauner
+ * by ByAple Opensorce
+ */
 public class UseItemEvent implements Listener {
 
     @EventHandler

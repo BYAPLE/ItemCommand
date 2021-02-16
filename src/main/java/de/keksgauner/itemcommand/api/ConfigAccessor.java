@@ -9,7 +9,11 @@ import java.util.logging.Level;
 import org.bukkit.configuration.file.FileConfiguration;
 import org.bukkit.configuration.file.YamlConfiguration;
 import org.bukkit.plugin.java.JavaPlugin;
-// Author KeksGauner by ByAple.de
+
+/**
+ * @author KeksGauner
+ * by ByAple Opensorce
+ */
 public class ConfigAccessor {
 
     private final String fileName;
